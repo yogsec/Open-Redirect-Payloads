@@ -2,6 +2,8 @@
 
 A collection of various Open Redirect payloads for security researchers, penetration testers, and bug bounty hunters. This repository aims to provide a comprehensive list of payloads to detect and exploit Open Redirect vulnerabilities in web applications.
 
+![Open-Redirect](https://github.com/yogsec/Open-Redirect-Payloads/blob/main/open-redirection-vulnerability.png)
+
 ## 🚨 What is an Open Redirect Vulnerability?
 An Open Redirect vulnerability occurs when a web application allows an attacker to redirect users to an external, malicious URL without proper validation. This can be exploited for phishing attacks, malware distribution, and other malicious activities.
 
