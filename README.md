@@ -57,7 +57,7 @@ If you find our work helpful and would like to support us, consider buying us a 
 ## 📦 Usage
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/open-redirect-payloads.git
+git clone https://github.com/yogsec/Open-Redirect-Payloads.git
 ```
 Use the payloads for testing Open Redirect vulnerabilities in your bug bounty and pentesting engagements.
 
