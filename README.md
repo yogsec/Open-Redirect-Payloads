@@ -41,7 +41,7 @@ Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any
 💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
 📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
 🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
-👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/bug-bounty-hunter/](https://www.linkedin.com/in/bug-bounty-hunter/)  
+👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/cybersecurity-pentester/](https://www.linkedin.com/in/cybersecurity-pentester/)  
 📧 **Email:** abhinavsingwal@gmail.com
 
 ---
@@ -362,10 +362,3 @@ javascript:location.replace('https://attacker.com')
 
 ## ⚠️ Disclaimer
 This repository is intended for educational and ethical purposes only. The author is not responsible for any misuse of the information provided.
-
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit a pull request with new payloads or improvements.
-
-
-
